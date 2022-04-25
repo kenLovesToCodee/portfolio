@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.657b9008.css",
+    "main.js": "/portfolio/static/js/main.09468d23.js",
+    "static/media/jovanne_porftolio01.png": "/portfolio/static/media/jovanne_porftolio01.b5d62e3c92e223e12d8f.png",
+    "static/media/resume.png": "/portfolio/static/media/resume.2309df8dd31b3934d539.png",
+    "index.html": "/portfolio/index.html",
+    "main.657b9008.css.map": "/portfolio/static/css/main.657b9008.css.map",
+    "main.09468d23.js.map": "/portfolio/static/js/main.09468d23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.657b9008.css",
+    "static/js/main.09468d23.js"
+  ]
+}
